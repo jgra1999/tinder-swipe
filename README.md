@@ -20,3 +20,7 @@ Clone the project
 ```bash
   git clone https://github.com/jgra1999/tinder-swipe.git
 ```
+## Demo
+
+[Insert gif or link to demo](https://peaceful-semifreddo-17e88f.netlify.app/)
+
