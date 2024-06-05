@@ -22,5 +22,5 @@ Clone the project
 ```
 ## Demo
 
-[Insert gif or link to demo](https://peaceful-semifreddo-17e88f.netlify.app/)
+[Link Demo 🌐](https://peaceful-semifreddo-17e88f.netlify.app/)
 
